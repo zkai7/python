@@ -1,0 +1,13 @@
+num1 = 123;
+num2 = 123.5;
+num3 = 12L;
+num4 = 1.5F;
+type(123);
+type(num3);
+
+c = 3.14j;
+
+str1 = "abc";
+str2 = 'aac';
+str3 = """str""";
+
